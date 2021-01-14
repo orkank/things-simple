@@ -1,3 +1,8 @@
+<br />
+<p align="center">
+<h3 align="center">JavaScript Splice Examples</h3>
+</p>
+
 ```javascript
 const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
@@ -10,5 +15,3 @@ arr.splice(-2); // [8,9]
 // array içerisinde sondan başlayarak verilen index değeri kadar değer döndürür.
 // array değer çıkartılan değerlerden sonra kalan kadar döner
 ```
-
-## javascript splice examples
